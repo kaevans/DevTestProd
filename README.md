@@ -28,6 +28,6 @@ Template parameters:
 | vmSize | The size of the VM (Standard_D1) |
 
 
-
+If you are interested in more ARM templates, visit <a href="https://github.com/Azure/azure-quickstart-templates">https://github.com/Azure/azure-quickstart-templates</a>.
 
 
