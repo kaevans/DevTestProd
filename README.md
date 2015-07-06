@@ -8,7 +8,7 @@ This template deploys the following resources:
 
 Click the button below to deploy
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkaevans%2Fdevtestprod%2Fmaster%2Fdevtestprod%2Ftemplates%2FLoadBalancedVirtualMachine.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkaevans%2FDevTestProd%2Fmaster%2FDevTestProd%2FTemplates%2FLoadBalancedVirtualMachine.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
