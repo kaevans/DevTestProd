@@ -3,7 +3,7 @@
 This template shows how to customize an existing template to suit your needs.  For more information, see the blog post at <a href="http://blogs.msdn.com/b/kaevans/archive/2015/07/05/azure-resource-manager-templates-with-visual-studio-2015.aspx">http://blogs.msdn.com/b/kaevans/archive/2015/07/05/azure-resource-manager-templates-with-visual-studio-2015.aspx</a>
 
 This template deploys the following resources:
-<ul><li>storage account</li><li>vnet</li><li>public ip</li><li>load balancer</li><li>a DC virtual machine</li><li>and another virtual machine</li></ul>
+<ul><li>storage account</li><li>vnet with 3 subnets</li><li>6 network interfaces</li><li>6 virtual machines (size D1)</li></ul>
 
 
 Click the button below to deploy
