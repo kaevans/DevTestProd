@@ -1,8 +1,6 @@
 # DevTestProd
-# Domain join sample
 
-This template demonstrates domain join to a private AD domain up in cloud. 
-It creates one DC VM, one other VM and joins it to the domain.
+This template shows how to customize an existing template to suit your needs.  For more information, see the blog post at <a href="http://blogs.msdn.com/b/kaevans/archive/2015/07/05/azure-resource-manager-templates-with-visual-studio-2015.aspx">http://blogs.msdn.com/b/kaevans/archive/2015/07/05/azure-resource-manager-templates-with-visual-studio-2015.aspx</a>
 
 This template deploys the following resources:
 <ul><li>storage account</li><li>vnet</li><li>public ip</li><li>load balancer</li><li>a DC virtual machine</li><li>and another virtual machine</li></ul>
